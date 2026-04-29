@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/mwvyenaz";
 
 export default function Home() {
   const [email, setEmail] = useState("");
