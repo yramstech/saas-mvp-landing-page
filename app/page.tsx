@@ -98,6 +98,27 @@ export default function Home() {
         </p>
       </section>
 
+      <section className="mx-auto max-w-3xl border-t border-slate-200 px-6 py-16">
+        <h2 className="text-center text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
+          The 30-minute-per-job tax that's killing your pipeline.
+        </h2>
+        <div className="mt-8 space-y-6 text-base leading-relaxed text-slate-700 sm:text-lg">
+          <p>
+            You know mass-applying with one CV doesn't work. Recruiters can spot a generic resume in 6 seconds and they auto-reject the rest.
+          </p>
+          <p>
+            So you tailor each one. Re-order bullets to match the job posting. Surface the keywords that show you read it. Hide the lines that look irrelevant for this role.
+          </p>
+          <p>
+            Each tailored CV takes 30 minutes. Across 20 applications, that's 10 hours — gone. Most people quit after the third one and slide back to mass-apply.
+          </p>
+          <p className="font-semibold text-slate-900">
+            HireRoom does the 30 minutes in 30 seconds. Same quality. 60x faster. You apply for jobs at the speed your career deserves.
+          </p>
+        </div>
+      </section>
+
+
       <section className="mx-auto max-w-5xl border-t border-slate-200 px-6 py-12">
         <h2 className="text-center text-sm font-semibold uppercase tracking-wider text-slate-500">
           How it works
