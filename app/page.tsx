@@ -86,6 +86,12 @@ export default function Home() {
           </button>
         </form>
 
+        <p className="mt-3 text-sm">
+          <a href="/tailor" className="text-indigo-600 underline hover:text-indigo-700">
+          Or try the live demo →
+          </a>
+        </p>
+
         {submitted && (
           <p className="mt-4 text-sm text-emerald-700">
             Thanks. You're on the list — first 100 get HireRoom free at launch.
